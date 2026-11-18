@@ -1,0 +1,8 @@
+python-dateutil
+numpy
+pandas
+matplotlib
+scikit-learn
+kagglehub
+jupyter
+ipython
